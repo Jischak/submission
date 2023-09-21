@@ -18,4 +18,4 @@ streamlit run dashboard.py
 ![image](https://github.com/Jischak/jmtdashboard/assets/52368239/b93dc79c-7336-4c36-afe4-ce5acbb4592c)
 
 # Link Streamlit cloud
-https://submission-ynat4wzgopzpmtwldbh4vf.streamlit.app/
+https://submission-w4yvzgae47mgj383mycdgn.streamlit.app/

@@ -170,7 +170,7 @@ def value_hari_value_max(df):
 
 
 #input dataset
-df_bks_data = pd.read_csv("df_bks_data.csv")
+df_bks_data = pd.read_csv("dashboard/df_bks_data.csv")
 
 #sorting dataset berdasarkan dteday
 df_bks_data.sort_values(by="dteday", inplace=True)

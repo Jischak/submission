@@ -22,4 +22,4 @@ Pilih : Tahun 2012 -> Bulan Desember
 
 
 # Link Streamlit cloud
-https://submission-w4yvzgae47mgj383mycdgn.streamlit.app/
+https://submission-uhfuxbbqycxyfjpmgynjuq.streamlit.app/
